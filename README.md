@@ -1,7 +1,7 @@
 ### Hi, I'm Paolo Magnani 🤙
 
 - 🗺 I'm Italian 🇮🇹, from Bologna.
-- 💼 I'm currently working as data scientist at [Musixmatch](https://www.musixmatch.com/it)
+- 💼 I'm currently working as data scientist at [Musixmatch](https://www.musixmatch.com/it) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Musixmatch_logo_icon_only.svg/1200px-Musixmatch_logo_icon_only.svg.png"  width="15" height="15"/>.
 - 🤓 I'm fascinating by the world of **Artificial Intelligence** and in particular of **Natural Language Processing**.
 
 <!--
